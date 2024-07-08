@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://calbacton.github.io/sitemap
+Sitemap: https://calbacton.github.io/app/sitemap
+Sitemap: https://calbacton.github.io/assets/sitemap
+Sitemap: https://calbacton.github.io/css/sitemap
+Sitemap: https://calbacton.github.io/includes/sitemap
+Sitemap: https://calbacton.github.io/item/sitemap
+Sitemap: https://calbacton.github.io/src/sitemap
